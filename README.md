@@ -4,7 +4,7 @@
 
 # Description
 
-Into The Radius 2 bHaptics and Provolver mod. Vest and Arms are supported.</br></br>
+Into The Radius 2 bHaptics and Provolver/ForceTube mod. Vest and Arms are supported.</br></br>
 [https://store.steampowered.com/app/2307350/Into_the_Radius_2/](https://store.steampowered.com/app/2307350/Into_the_Radius_2/)
 
 ☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
