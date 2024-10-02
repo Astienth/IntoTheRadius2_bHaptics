@@ -18,7 +18,7 @@ Into The Radius 2 bHaptics and Provolver/ForceTube mod. Vest and Arms are suppor
 5) Load your save or a new game, <b>WAIT FOR THE GAME TO BE FULLY LOADED</b>.
 6) If you started a new game you need to be able to save before continuing the mod activation process.
 7) Run **ITR2_Bhaptics.bat**.You should feel the initial heartbeat
-8) <b>RELOAD YOU SAVE FOR THE MOD TO BE OPERATIONAL</b> </br>
+8) <b>RELOAD YOUR SAVE FOR THE MOD TO BE OPERATIONAL</b> </br>
 
 # <b>Limitations</b>
 This is a basic mod for the time being, the game is in early access and is likely to break with each new update.
